@@ -1,0 +1,4 @@
+hello everyone
+version control is used to manage multiple versions of document programmes
+local repository are made from git bash
+default branch is master
